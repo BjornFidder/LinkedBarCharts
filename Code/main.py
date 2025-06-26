@@ -5,7 +5,8 @@ import matplotlib.pyplot as plt
 from tqdm import tqdm
 from network_data import edge_density, teenage_friends, roll_call_votes, movies
 
-path = 'C:/Users/bjorn/OneDrive - Universiteit Utrecht/UNI/Master/Jaar 2/Semester 2/Experimentation Project/'
+path = '' ## Insert path of the parent folder of this code folder.
+
 colors = {'Baseline': "C0", 
           'Greedy incremental': "C3", 
           'Adjacent 2-OPT': "C1", 
