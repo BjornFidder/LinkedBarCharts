@@ -8,3 +8,5 @@ The file main.py runs the experiments in Jupyter notebook style.
 
 The Data folders contain ".npy" files that store arrays of the results of the experiments used in the paper,
 and are automatically loaded. By setting the boolean "load" to False, it is possible to rerun the experiments.
+
+See the file report.pdf for the report on the project for further information.
